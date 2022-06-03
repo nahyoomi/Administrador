@@ -1,12 +1,12 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#specifications">Specifications</a> •
-  <a href="https://fastyride.netlify.app" target="_blank">Demo</a> •
+  <a href="https://citasrapidas.netlify.app/" target="_blank">Demo</a> •
 </p>
 
 <div align="">
    <p>
-      <b>Administrador</b>Administrador de citas</i>
+      <b>Administrador</b> de citas</i>
    </p>
 </div>
 
